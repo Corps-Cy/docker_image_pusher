@@ -1,4 +1,4 @@
-docker.n8n.io/n8n-io/n8n
+ghcr.io/docker-mailserver/docker-mailserver:15.0.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
